@@ -1,0 +1,1 @@
+# UNIDAD 1- ORGANIZACIÓN Y FUNCIONAMIENTO DE UN CENTRO EDUCATIVO: ¿QUÉ LUGAR OCUPA LA FORMACIÓN DEL PROFESORADO Y SU COORDINADOR? {#unidad-1-organizaci-n-y-funcionamiento-de-un-centro-educativo-qu-lugar-ocupa-la-formaci-n-del-profesorado-y-su-coordinador}
