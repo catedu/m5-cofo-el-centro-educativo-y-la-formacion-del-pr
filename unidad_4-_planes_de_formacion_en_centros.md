@@ -124,8 +124,8 @@ Los **materiales generados por actividades** en el marco de los Planes de Formac
 
 ---
 
-**Consejos prácticos:
-**
+### Consejos prácticos:
+
 - Finalizar las actividades muy a principios de mayo para poder tener tiempo de realizar las evaluaciones
 
 **
