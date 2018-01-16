@@ -8,3 +8,5 @@
 * [UNIDAD 2- FUNCIONES DEL COORDINADOR DE FORMACIÓN](unidad_2-_funciones_del_coordinador_de_formacion.md)
 * [UNIDAD 3- COORDINACIÓN CON LA RED DEL PROFESORADO Y CON OTROS SUJETOS E INSTITUCIONES QUE INTERVIENEN EN EL CENTRO EDUCATIVO](unidad_3-_coordinacion_con_la_red_del_profesorado_.md)
 * [UNIDAD 4- PLANES DE FORMACIÓN EN CENTROS](unidad_4-_planes_de_formacion_en_centros.md)
+* [Créditos](creditos.md)
+
