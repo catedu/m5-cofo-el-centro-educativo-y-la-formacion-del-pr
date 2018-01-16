@@ -8,36 +8,53 @@ Incluimos enlaces a las últimas convocatoria publicadas:
 
 [http://www.educaragon.org/FILES/Planes%20de%20formaci%C3%B3n%20de%20centros.pdf](https://www.google.com/url?q=http://www.educaragon.org/FILES/Planes%2520de%2520formaci%25C3%25B3n%2520de%2520centros.pdf&sa=D&ust=1516098480767000&usg=AFQjCNHY1ipVePXjgu61mg8jFks5BvWHkg) 
 
-Como consta en varias normativas, las actividades de formación propuestas y desarrolladas dentro del plan, tendrán lugar, preferentemente, fuera del horario de atención directa a los alumnos excepto aquellas que tengan carácter institucional, convocadas por las administraciones educativas u otras que excepcionalmente puedan ser autorizadas por causas debidamente justificadas.
+Como consta en varias normativas, las actividades de formación propuestas y desarrolladas dentro del plan, tendrán lugar, preferentemente, **fuera del horario de atención directa a los alumnos** excepto aquellas que tengan carácter institucional, convocadas por las administraciones educativas u otras que excepcionalmente puedan ser autorizadas por causas debidamente justificadas.
 
-El Plan de Formación de Centro no es un mero documento recopilatorio e informativo, sino que constituye una herramienta en sí misma para planificar, diseñar y evaluar las actividades de formación que un Claustro decida poner en marcha, y que irán orientadas a :
+El Plan de Formación de Centro no es un mero documento recopilatorio e informativo, sino que **constituye una herramienta en sí misma para planificar, diseñar y evaluar** las actividades de formación que un Claustro decida poner en marcha, y que irán orientadas a :
 
 *   Promover la mejora de la institución escolar como organización educativa.
 *   Impulsar el trabajo colaborativo entre iguales.
 *   Fomentar el desarrollo de proyectos de centro con carácter interdisciplinar.
 *   Invitar a la reflexión.
-*   Convertir el centro en el elemento básico de propuestas de mejora, formación e innovación de implementación inmediata.![](images/image5.png)
+*   Convertir el centro en el elemento básico de propuestas de mejora, formación e innovación de implementación inmediata.
 
-Primera fase: reflexión y detección de necesidades. Entre junio-septiembre.
+![](images/image5.png)
+
+### Primera fase: reflexión y detección de necesidades. Entre junio-septiembre.
 
 Es importante recordar que debemos basarnos en dos aspectos esenciales asociados:
 
-*   Los objetivos de mejora de los centros educativos.
-*   La situación competencial del Claustro para conseguir esos objetivos.
+*   Los **objetivos de mejora** de los centros educativos.
+*   La **situación competencial del Claustro** para conseguir esos objetivos.
 
 Además debemos contemplar la adecuación de nuestras propuestas al Plan Marco de Formación del Profesorado de Aragón.
 
 Entre junio y septiembre, comienza en los centros la fase de reflexión, de decisión sobre objetivos de mejora y de detección de las necesidades formativas del Claustro con respecto a ellos.
 
-| Instrumentos para esta primera fase: |
-| --- |
-| Consejos prácticos para esta primera fase: |
+---
 
-Segunda fase: Elaboración del Plan de Formación. Septiembre.
+**Instrumentos para esta primera fase:**
 
-El Plan de Formación del Centro es elaborado por el Coordinador de Formación del centro y otros docentes del Claustro coordinadores de actividades en colaboración con el Equipo Directivo y el Departamento de Formación e Innovación Educativa en los Institutos de Educación Secundaria, o el Departamento de Innovación y Transferencia del Conocimiento en los CPIFP. Una vez informado el Claustro, se incluye en la Programación General Anual.![](images/image4.png)
+Contamos con unos instrumentos proporcionados por el Departamento de Educación y los CIFEs, como el [Formulario de apoyo de detección de necesidades](http://cifelanuza.org/descarga.php?archivo=documentos/COFO_documentacion/Deteccion%20necesidades/anexo_ii_autoevaluacion_competencias_def_directores.xls&tipo=documentos)
+
+---
+
+**Consejos prácticos para esta primera fase:**
+
+- Definir muy bien las líneas de mejora del centro y sus objetivos.
+- Leer detenidamente la convocatoria de los Planes de Formación para ese curso, y el Plan Marco de - Formación de Profesorado antes de comenzar.
+- Tener en cuenta las memorias tanto del Plan de Innovación como del Plan de Formación del curso anterior como punto de partida.
+- Considerar la elaboración de otros cuestionarios de detección de necesidades si los propuestos por el Dto de Educación o CIFEs no se adaptan o son insuficientes.
+
+---
+
+### Segunda fase: Elaboración del Plan de Formación. Septiembre.
+
+El Plan de Formación del Centro es elaborado por el **Coordinador de Formación del centro y otros docentes del Claustro coordinadores de actividades** en colaboración con el **Equipo Directivo y el Departamento de Formación e Innovación Educativa en los Institutos de Educación Secundaria, o el Departamento de Innovación y Transferencia del Conocimiento en los CPIFP**. Una vez informado el Claustro, se incluye en la Programación General Anual.
 
 La elaboración del plan es siempre fruto de la coordinación telemática a través de la plataforma [DOCEO](https://www.google.com/url?q=https://cifes.aragon.es/modulos/index.php&sa=D&ust=1516098480773000&usg=AFQjCNEs2oo_OcP-ngxlDJaEKmpgwW82yA) entre centros educativos y los Centros de Innovación y Formación Educativa, que colaboran en el diseño, desarrollo y seguimiento.
+
+![](images/image4.png)
 
 Dentro de los centros, los Coordinadores de Formación y los Coordinadores de cada una de las actividades que se van a proponer (el COFO no tiene porqué coordinar todas ellas) formalizan su propuesta en DOCEO, cumplimentando toda la información general del Plan y de cada una de las actividades que lo van a conformar.
 
@@ -52,13 +69,27 @@ Además de este trámite telemático, otros imprescindibles son:
 *   Documento de aprobación de los Claustros de su Proyecto de Formación en Centro.
 *   El Consejo Escolar debe ser informado del Proyecto de Formación en Centro.
 
-| Instrumentos para la segunda fase: |
-| --- |
-| Consejos prácticos: |
+---
 
-       ![](images/image2.png)![](images/image7.png)![](images/image11.png)
+**Instrumentos para la segunda fase:**
 
-Tercera fase: desarrollo, seguimiento y evaluación intermedia. De octubre a mayo.
+[Manual de DOCEO para COFOs](http://cifes.aragon.es/manual_cofos/)
+[cifes.aragon.es](https://cifes.aragon.es/)
+
+---
+
+Consejos prácticos:
+
+- Elegir bien a los coordinadores de cada una de las actividades.
+- Definir los tipos de actividades (PFC, SM, GT) de acuerdo a los objetivos.
+- Acordar las franjas horarias junto con los participantes.
+- Recordar que dentro del Claustro hay diferentes perfiles de docentes con necesidades distintas.
+- Definir objetivos claros y alcanzables.
+- La evaluación de la formación es fundamental para la mejora futura.
+
+![](images/image2.png)![](images/image7.png)![](images/image11.png)
+
+### Tercera fase: desarrollo, seguimiento y evaluación intermedia. De octubre a mayo.
 
 Los servicios técnicos de apoyo (Inspección de Educación y Equipos de Orientación Educativa y Psicopedagógica) supervisarán los planes y podrán orientar a los equipos directivos en la identificación de ámbitos de mejora y establecimiento de objetivos.
 
@@ -68,75 +99,36 @@ Sigue siendo necesaria la colaboración continua entre el COFOs y otros Coordina
 
 Tras la evaluación intermedia en enero, es posible incorporar alguna modificación en el Plan de Formación si se considera necesaria.
 
-| Consejos prácticos: |
-| --- |
+---
 
-Cuarta fase: evaluación y memoria del Plan De Formación. Mayo-junio
+Consejos prácticos:
 
-A lo largo del mes de mayo se procede a efectuar la evaluación de cada actividad del Plan, y la evaluación del Plan en sí.
+- Recordar que un grupo de docentes en formación suele ser muy diverso en cuanto a competencias, conocimiento y experiencia.
+-Una sesión de formación es una buena oportunidad para experimentar nuevas metodologías en el aula.
+- El COFO coordina, pero no es el centro de la formación. Son los participantes.
+- No perder nunca de vista los objetivos de mejora e innovación de las actividades que se realizan ni del plan en sí mismo.
 
-La evaluación consistirá en aplicar los criterios de evaluación utilizando los instrumentos planificados para ello (cuestionarios, observación, material generado, etc), y obtener unas conclusiones finales sobre el cumplimiento de los objetivos iniciales, y unas propuestas para el futuro.
+---
 
-Desde el punto de vista administrativo, ésta tiene lugar de nuevo telemáticamente a través de la plataforma Doceo, y será fruto de la colaboración entre el COFO y otros docentes coordinadores de actividades.
+### Cuarta fase: evaluación y memoria del Plan De Formación. Mayo-junio
 
-La Memoria debe recoger todas las actividades de formación y actualización en las que haya participado algún docente del centro, tanto las planificadas dentro de sus Planes de Formación como aquellas realizadas que hayan sido promovidas por la Administración Educativa u otras distintas que los docentes hayan realizado por iniciativa individual a lo largo del curso.
+A lo largo del mes de mayo se procede a efectuar **la evaluación de cada actividad del Plan, y la evaluación del Plan en sí.**
 
-Los materiales generados por actividades en el marco de los Planes de Formación de los centros, deberán estar a disposición del CIFE de referencia para su supervisión, en formato digital y por vía telemática. Se recomienda a los centros el desarrollo de un dossier de formación o portafolio recogiendo informes e históricos sobre los resultados de la aplicación de los indicadores de evaluación.
+La evaluación consistirá en **aplicar los criterios de evaluación utilizando los instrumentos** planificados para ello (cuestionarios, observación, material generado, etc), y obtener unas conclusiones finales sobre el cumplimiento de los objetivos iniciales, y unas propuestas para el futuro.
 
-| Consejos prácticos: |
-| --- |
+Desde el punto de vista administrativo, ésta tiene lugar de nuevo **telemáticamente** a través de la plataforma Doceo, y será fruto de la colaboración entre el **COFO y otros docentes coordinadores de actividades.**
 
-Resumen de las tareas del COFO asociadas directamente al Plan de Formación del Centro. Cuadro adaptado del ofrecido por el CIFE Juan de Lanuza en su información de comienzo de curso:
+La Memoria debe recoger **todas las actividades de formación y actualización** en las que haya participado algún docente del centro, tanto las planificadas dentro de sus Planes de Formación como aquellas realizadas que hayan sido promovidas por la Administración Educativa u otras distintas que los docentes hayan realizado por iniciativa individual a lo largo del curso.
 
-| TAREAS | TAREAS CENTRO | APOYO |
-| --- | --- | --- |
-| Diseño del Plan, detección de necesidades: junio-septiembre | 
+Los **materiales generados por actividades** en el marco de los Planes de Formación de los centros, deberán estar a disposición del CIFE de referencia para su supervisión, en formato digital y por vía telemática. Se recomienda a los centros el desarrollo de un dossier de formación o portafolio recogiendo informes e históricos sobre los resultados de la aplicación de los indicadores de evaluación.
 
-*   Reflexión sobre las características del centro, y análisis de documentación.
-*   Definir los objetivos deseables para el plan de formación.
-*   Cumplimentar los formularios de apoyo para la detección de necesidades.
+---
 
- | 
+**Consejos prácticos:
+**
+- Finalizar las actividades muy a principios de mayo para poder tener tiempo de realizar las evaluaciones
 
-*   Inspección: revisión de la PGA.
-*   Asesoría de referencia: informes finales de actividades, revisión memora Plan.
-*   Documentos específicos de detección de necesidades desde el Departamento de Educación y CIFES.
+**
+Resumen de las tareas del COFO asociadas directamente al Plan de Formación del Centro. Cuadro adaptado del ofrecido por el CIFE Juan de Lanuza en su información de comienzo de curso:**
 
- |
-| Elaboración: septiembre | 
-
-*   Actualización de los datos del centro y del profesorado.
-*   Recogida de demandas formativas (propuestas de actividades, coordinadores).
-*   Plan y creación de actividades
-*   Inclusión en la PGA, una vez informado el claustro.
-
- | 
-
-*   Asesoría de referencia: contacto directo.
-*   Formación teórica a los COFO (itinerario formativo).
-*   Asesoría asignada informa de cada actividad, elección de ponentes, apoyo personal, presupuesto.
-*   CIFE: notificación de las actividades certificables.
-
- |
-| Desarrollo: octubre-mayo | 
-
-*   Seguimiento de las actividades (actas y asistencia).
-*   Resolución de problemas (ausencias coordinador…)
-*   Evaluación intermedia (enero-febrero)
-
- | 
-
-*   Asesoramiento y apoyo a los coordinadores de actividades del Plan en el seguimiento de las mismas.
-*   Asesoría de referencia: Gestión de ponentes y gastos.
-
- |
-| Evaluación | 
-
-*   Memoria actividades  y propuesta de certificación.
-*   COFO y E.D.: Memoria del Plan de Formación.
-
- | 
-
-*   CIFE: Informe final y propuesta certificación.
-
- |
+![](/assets/Seleccion_060.png)
