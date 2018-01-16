@@ -2,11 +2,11 @@
 
 ![](images/image1.png)
 
-                                                                         Imagen extraída de infografía del CIFE Sabiñánigo
+                       Imagen extraída de infografía del CIFE Sabiñánigo
 
 La calidad de la enseñanza en las aulas depende en gran medida de la formación de sus docentes. Un claustro bien formado puede afrontar con muchas más garantías de éxito los retos que su tarea diaria plantea.
 
-Explicamos brevemente la transformación en la formación del profesorado en Aragón en los últimos años, como ejemplo cercano de cambio de paradigma en la formación del profesorado, con el Claustro como eje de su propio aprendizaje.    
+Explicamos brévemente la transformación en la formación del profesorado en Aragón en los últimos años, como ejemplo cercano de cambio de paradigma en la formación del profesorado, con el Claustro como eje de su propio aprendizaje.    
 
 Hasta el curso 2007-2008 el número de actividades de formación que se realizaban en los centros educativos, fuera de los Centros de Profesores y Recursos en Aragón era bajo, en comparación con los cursos, seminarios y grupos de trabajo que estos Centros ofrecían al profesorado. Los Proyectos de Formación en centro eran muy escasos, el liderazgo de la formación del profesorado era sin ninguna duda de los Centros de Profesores, y de la Administración Educativa correspondiente, y las actividades se orientaban hacia los individuos en lugar de hacia los colectivos.
 
