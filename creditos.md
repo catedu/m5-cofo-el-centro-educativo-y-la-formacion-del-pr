@@ -1,2 +1,2 @@
-Autora: Teresa Fernandez de La Vega.
+Autora: Maria Victoria Salvo Palacín.
 
