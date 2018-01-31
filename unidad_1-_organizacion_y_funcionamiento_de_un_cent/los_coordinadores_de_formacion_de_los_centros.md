@@ -1,6 +1,6 @@
 ## LOS COORDINADORES DE FORMACIÓN DE LOS CENTROS: {#los-coordinadores-de-formaci-n-de-los-centros}
 
-El mencionado Decreto 105/2013, de 11 de junio, del Gobierno de Aragón, por el que se regula el sistema aragonés de formación permanente del profesorado, su régimen jurídico y la estructura de su red establece lo siguiente en su artículo 23 punto 1 lo siguiente:
+El mencionado [Decreto 105/2013](https://goo.gl/gQuqm8), de 11 de junio, del Gobierno de Aragón, por el que se regula el sistema aragonés de formación permanente del profesorado, su régimen jurídico y la estructura de su red establece lo siguiente en su artículo 23 punto 1 lo siguiente:
 
 1\. Los centros docentes sostenidos con fondos públicos designarán un coordinador de formación del profesorado que será el responsable de armonizar las acciones de investigación, los programas de innovación educativa, las prácticas externas de los estudiantes universitarios y las actuaciones de formación y actualización permanente que se lleven a cabo en el Centro, así como el encargado de representar al claustro de profesores en el Centro de Innovación y Formación Educativa.
 
