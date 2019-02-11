@@ -1,10 +1,11 @@
 ## LOS COORDINADORES DE FORMACIÓN DE LOS CENTROS: {#los-coordinadores-de-formaci-n-de-los-centros}
 
-El mencionado [Decreto 105/2013](https://goo.gl/gQuqm8), de 11 de junio, del Gobierno de Aragón, por el que se regula el sistema aragonés de formación permanente del profesorado, su régimen jurídico y la estructura de su red establece lo siguiente en su artículo 23 punto 1 lo siguiente:
+El mencionado [DECRETO 166/2018, de 18 de septiembre](https://bit.ly/2SgTskC), del Gobierno de Aragón, por el que se regula la formación del profesorado de enseñanzas no universitarias que presta sus servicios en centros docentes sostenidos con fondos públicos en la Comunidad Autónoma de Aragón. establece lo siguiente en su artículo 21 punto 1 lo siguiente:
 
-1\. Los centros docentes sostenidos con fondos públicos designarán un coordinador de formación del profesorado que será el responsable de armonizar las acciones de investigación, los programas de innovación educativa, las prácticas externas de los estudiantes universitarios y las actuaciones de formación y actualización permanente que se lleven a cabo en el Centro, así como el encargado de representar al claustro de profesores en el Centro de Innovación y Formación Educativa.
+1. En todos los centros docentes de la Comunidad Autónoma de Aragón sostenidos con fondos públicos y en los Equipos de Orientación Educativa de Infantil y Primaria, existirá un coordinador o coordinadora de formación
 
-**La obligatoriedad de la creación de un Plan de Formación junto con la aparición oficial de la figura del COFO** en los centros educativos de Aragón significaron la asignación  de corresponsabilidades en la Formación de su Profesorado a los centros formativos, y la asunción inmediata por su parte tanto de esas corresponsabilidades como de sus consiguientes tareas para hacerlas efectivas. Cada **centro escolar se había convertido en generador de formación permanente personalizada** para su propio Claustro, y **cada COFO en un potencial asesor para esa formación**.  
+
+**Es por tanto obligatoria la creación de un Plan de Formación y la existencia de la figura oficial del COFO** en los centros educativos de Aragón. Esto significa la asignación  de corresponsabilidades en la Formación de su Profesorado a los centros formativos, y la asunción inmediata por parte de los centros tanto de esas corresponsabilidades como de sus consiguientes tareas para hacerlas efectivas. Cada **centro escolar se ha convertido en generador de formación permanente personalizada** para su propio Claustro, y **cada COFO en un potencial asesor para esa formación**.  
 
 ![](/images/image8.jpg)
 
