@@ -4,7 +4,6 @@
 
 ¿Qué importancia tiene un plan de formación en un centro educativo? ¿Dónde debe incluirse?
 
-
 El Plan de Formación ha sido considerado desde sus inicios como un documento institucional de gran valor, que debe ser incorporado a la PGA de los centros, y también a su memoria. Supone en sí mismo un instrumento esencial para el **proceso de formación-innovación-mejora** que debe tenerse en cuenta a comienzo de curso, y generar reflexión y debate a final del mismo.  
 
 ![](/images/image13.png)

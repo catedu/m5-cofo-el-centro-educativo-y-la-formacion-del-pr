@@ -4,9 +4,12 @@ Todos los centros educativos de la Comunidad Autónoma de Aragón, públicos y p
 
 Incluimos enlaces a las últimas convocatoria publicadas:
 
-[http://www.educaragon.org/FILES/CONVOCATORIA%20PFC%202016-17.pdf](https://www.google.com/url?q=http://www.educaragon.org/FILES/CONVOCATORIA%2520PFC%25202016-17.pdf&sa=D&ust=1516098480766000&usg=AFQjCNFs2j7jkKwgZes9u7KIK1fIqdIu3w) 
+Curso 16-17: [http://www.educaragon.org/FILES/CONVOCATORIA%20PFC%202016-17.pdf](https://www.google.com/url?q=http://www.educaragon.org/FILES/CONVOCATORIA%2520PFC%25202016-17.pdf&sa=D&ust=1516098480766000&usg=AFQjCNFs2j7jkKwgZes9u7KIK1fIqdIu3w) 
 
-[http://www.educaragon.org/FILES/Planes%20de%20formaci%C3%B3n%20de%20centros.pdf](https://www.google.com/url?q=http://www.educaragon.org/FILES/Planes%2520de%2520formaci%25C3%25B3n%2520de%2520centros.pdf&sa=D&ust=1516098480767000&usg=AFQjCNHY1ipVePXjgu61mg8jFks5BvWHkg) 
+Curso 17-18:[http://www.educaragon.org/FILES/Planes%20de%20formaci%C3%B3n%20de%20centros.pdf](https://www.google.com/url?q=http://www.educaragon.org/FILES/Planes%2520de%2520formaci%25C3%25B3n%2520de%2520centros.pdf&sa=D&ust=1516098480767000&usg=AFQjCNHY1ipVePXjgu61mg8jFks5BvWHkg) 
+
+Curso actual, 18-19: http://www.educaragon.org/FILES/ConvocatoriaPlanesFormaci%C3%B3nCentros.pdf
+
 
 Como consta en varias normativas, las actividades de formación propuestas y desarrolladas dentro del plan, tendrán lugar, preferentemente, **fuera del horario de atención directa a los alumnos** excepto aquellas que tengan carácter institucional, convocadas por las administraciones educativas u otras que excepcionalmente puedan ser autorizadas por causas debidamente justificadas.
 
@@ -35,7 +38,7 @@ Entre junio y septiembre, comienza en los centros la fase de reflexión, de deci
 
 **Instrumentos para esta primera fase:**
 
-Contamos con unos instrumentos proporcionados por el Departamento de Educación y los CIFEs, como el [Formulario de apoyo de detección de necesidades](http://cifelanuza.org/descarga.php?archivo=documentos/COFO_documentacion/Deteccion%20necesidades/anexo_ii_autoevaluacion_competencias_def_directores.xls&tipo=documentos)
+Contamos con unos instrumentos proporcionados por el Departamento de Educación y los Centros del Profesorado, como el [Formulario de apoyo de detección de necesidades](http://cifelanuza.org/descarga.php?archivo=documentos/COFO_documentacion/Deteccion%20necesidades/anexo_ii_autoevaluacion_competencias_def_directores.xls&tipo=documentos)
 
 ---
 
@@ -44,7 +47,7 @@ Contamos con unos instrumentos proporcionados por el Departamento de Educación 
 - Definir muy bien las líneas de mejora del centro y sus objetivos.
 - Leer detenidamente la convocatoria de los Planes de Formación para ese curso, y el Plan Marco de - Formación de Profesorado antes de comenzar.
 - Tener en cuenta las memorias tanto del Plan de Innovación como del Plan de Formación del curso anterior como punto de partida.
-- Considerar la elaboración de otros cuestionarios de detección de necesidades si los propuestos por el Dto de Educación o CIFEs no se adaptan o son insuficientes.
+- Considerar la elaboración de otros cuestionarios de detección de necesidades si los propuestos por el Dto de Educación o Centros del Profesorado no se adaptan o son insuficientes.
 
 ---
 
@@ -58,9 +61,9 @@ La elaboración del plan es siempre fruto de la coordinación telemática a trav
 
 Dentro de los centros, los Coordinadores de Formación y los Coordinadores de cada una de las actividades que se van a proponer (el COFO no tiene porqué coordinar todas ellas) formalizan su propuesta en DOCEO, cumplimentando toda la información general del Plan y de cada una de las actividades que lo van a conformar.
 
-El asesor de formación del CIFE de referencia del centro educativo orienta al Coordinador de Formación y al Equipo Directivo en cuanto a la viabilidad del proyecto y a la adecuación de las acciones formativas planteadas para los objetivos que se pretenden alcanzar y contribuye a dotar de coherencia al plan elaborado.
+El asesor de formación del Centro del Profesorado de referencia del centro educativo orienta al Coordinador de Formación y al Equipo Directivo en cuanto a la viabilidad del proyecto y a la adecuación de las acciones formativas planteadas para los objetivos que se pretenden alcanzar y contribuye a dotar de coherencia al plan elaborado.
 
-Posteriormente el equipo pedagógico del CIFE determina qué actividades serán gestionadas y certificadas desde el mismo en función de su adecuación a las características establecidas  y su utilidad para la consecución de los objetivos planteados así como de los recursos disponibles.
+Posteriormente el equipo pedagógico del Centro del Profesorado determina qué actividades serán gestionadas y certificadas desde el mismo en función de su adecuación a las características establecidas  y su utilidad para la consecución de los objetivos planteados así como de los recursos disponibles.
 
 Una vez se acabe de ajustar el Plan por parte de todos, el Centro lo envía telemáticamente dentro de la plataforma.
 
@@ -95,7 +98,7 @@ Los servicios técnicos de apoyo (Inspección de Educación y Equipos de Orienta
 
 De octubre a mayo tienen lugar las actuaciones de formación, bajo el seguimiento del COFO y Equipo Directivo.
 
-Sigue siendo necesaria la colaboración continua entre el COFOs y otros Coordinadores de actividades y su CIFE de referencia.
+Sigue siendo necesaria la colaboración continua entre el COFOs y otros Coordinadores de actividades y su Centro del Profesorado de referencia.
 
 Tras la evaluación intermedia en enero, es posible incorporar alguna modificación en el Plan de Formación si se considera necesaria.
 
@@ -120,7 +123,7 @@ Desde el punto de vista administrativo, ésta tiene lugar de nuevo **telemática
 
 La Memoria debe recoger **todas las actividades de formación y actualización** en las que haya participado algún docente del centro, tanto las planificadas dentro de sus Planes de Formación como aquellas realizadas que hayan sido promovidas por la Administración Educativa u otras distintas que los docentes hayan realizado por iniciativa individual a lo largo del curso.
 
-Los **materiales generados por actividades** en el marco de los Planes de Formación de los centros, deberán estar a disposición del CIFE de referencia para su supervisión, en formato digital y por vía telemática. Se recomienda a los centros el desarrollo de un dossier de formación o portafolio recogiendo informes e históricos sobre los resultados de la aplicación de los indicadores de evaluación.
+Los **materiales generados por actividades** en el marco de los Planes de Formación de los centros, deberán estar a disposición del Centro del Profesorado de referencia para su supervisión, en formato digital y por vía telemática. Se recomienda a los centros el desarrollo de un dossier de formación o portafolio recogiendo informes e históricos sobre los resultados de la aplicación de los indicadores de evaluación.
 
 ---
 
@@ -129,6 +132,6 @@ Los **materiales generados por actividades** en el marco de los Planes de Formac
 - Finalizar las actividades muy a principios de mayo para poder tener tiempo de realizar las evaluaciones
 
 **
-Resumen de las tareas del COFO asociadas directamente al Plan de Formación del Centro. Cuadro adaptado del ofrecido por el CIFE Juan de Lanuza en su información de comienzo de curso:**
+Resumen de las tareas del COFO asociadas directamente al Plan de Formación del Centro. Cuadro adaptado del ofrecido por el Centro del Profesorado Juan de Lanuza en su información de comienzo de curso:**
 
 ![](/assets/Seleccion_060.png)

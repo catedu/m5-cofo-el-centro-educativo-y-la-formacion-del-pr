@@ -3,7 +3,7 @@
 ![](images/image1.png)
 
 ```
-                   Imagen extraída de infografía del CIFE Sabiñánigo
+                   Imagen extraída de infografía del Centro del Profesorado Sabiñánigo
 ```
 
 **La calidad de la enseñanza en las aulas depende en gran medida de la formación de sus docentes**. Un claustro bien formado puede afrontar con muchas más garantías de éxito los retos que su tarea diaria plantea.
@@ -18,7 +18,7 @@ A partir de las conclusiones extraídas tras estas iniciativas, la **formación 
 
 Posteriormente, se aprobó del [Decreto 105/2013, de 11 de junio, del Gobierno de Aragón](https://www.google.com/url?q=http://www.educaragon.org/Files/Files/UserFiles/File/DECRETO Form Prof_BOA 25-6-2013.pdf&sa=D&ust=1516098480746000&usg=AFQjCNGIf_4cqfm_sV-Pyh0C_l8U-azBZg), por el que se regula el sistema aragonés de formación permanente del profesorado, su régimen jurídico y la estructura de su red, la consiguiente creación de los CIFEs y UFIs, y **la aparición del COFO** como líder indiscutible de la formación del profesorado dentro de los centros educativos. 
 
-Ese Decreto queda derrogado con la aprobación del [DECRETO 166/2018, de 18 de septiembre](https://bit.ly/2SgTskC), del Gobierno de Aragón, por el que se regula la formación del profesorado de enseñanzas no universitarias que presta sus servicios en centros docentes sostenidos con fondos públicos en la Comunidad Autónoma de Aragón. En este Decreto 166/2018, actualmente vigente, se transforman los antiguos CIFEs en Centros del Profesotado.
+Ese Decreto queda derogado con la aprobación del [DECRETO 166/2018, de 18 de septiembre](https://bit.ly/2SgTskC), del Gobierno de Aragón, por el que se regula la formación del profesorado de enseñanzas no universitarias que presta sus servicios en centros docentes sostenidos con fondos públicos en la Comunidad Autónoma de Aragón. En este Decreto 166/2018, actualmente vigente, se transforman los antiguos CIFEs en Centros del Profesorado.
 
 La formación del profesorado dentro del centro educativo tiene desde entonces, entre otras, estas **finalidades:**
 

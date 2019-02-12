@@ -6,8 +6,6 @@ Los COFO deben coordinarse con varias instituciones y agentes externos en cumpli
 
 En el cuadro anterior se encuentran las más importantes.
 
-Por otro lado, no debemos olvidar la labor de coordinación que debe existir entre el COFO y
-
-grupos de docentes y órganos dentro del propio centro, que incluimos en el cuadro siguiente: 
+Por otro lado, no debemos olvidar la labor de coordinación que debe existir entre el COFO y grupos de docentes y órganos dentro del propio centro, que incluimos en el cuadro siguiente: 
 
 ![](images/image10.png)
