@@ -89,9 +89,11 @@ Consejos prácticos:
 - Recordar que dentro del Claustro hay diferentes perfiles de docentes con necesidades distintas.
 - Definir objetivos claros y alcanzables.
 - La evaluación de la formación es fundamental para la mejora futura.
+![](/assets/PFC1819.png)
+![](/assets/GT18-19.png)
+![](/assets/Copia de Copia de 6.png)
 
-![](images/image2.png)![](images/image7.png)![](images/image11.png)
-
+_Infografías de Diego Arroyo, @diegoarroyom_
 ### Tercera fase: desarrollo, seguimiento y evaluación intermedia. De octubre a mayo.
 
 Los servicios técnicos de apoyo (Inspección de Educación y Equipos de Orientación Educativa y Psicopedagógica) supervisarán los planes y podrán orientar a los equipos directivos en la identificación de ámbitos de mejora y establecimiento de objetivos.
