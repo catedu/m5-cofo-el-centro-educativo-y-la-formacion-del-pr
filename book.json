@@ -1,1 +1,43 @@
-{"plugins": ["youtube", "accordion", "image-captions", "styled-blockquotes", "localized-footer", "edit-link", "githubcontributors"], "language": "es", "variables": {"title": "EL CENTRO EDUCATIVO Y LA FORMACIÓN DEL PROFESORADO", "author": "Teresa Fernández de la Vega", "collaborators": [{"name": "", "edited": ""}]}, "pluginsConfig": {"image-captions": {"caption": "Imagen - _CAPTION_"}, "localized-footer": {"hline": true, "filename": "./FOOTER.md"}, "edit-link": {"base": "https://github.com/catedu/m5-cofo-el-centro-educativo-y-la-formacion-del-pr/edit/master", "label": "Edita esta página"}, "githubcontributors": {"githubOwner": "catedu", "githubRepository": "m5-cofo-el-centro-educativo-y-la-formacion-del-pr"}}}
+{
+  "plugins": [
+    "youtube",
+    "accordion",
+    "image-captions",
+    "styled-blockquotes",
+    "localized-footer",
+    "edit-link",
+    "githubcontributors",
+    "ga"
+  ],
+  "language": "es",
+  "variables": {
+    "title": "EL CENTRO EDUCATIVO Y LA FORMACIÓN DEL PROFESORADO",
+    "author": "Teresa Fernández de la Vega",
+    "collaborators": [
+      {
+        "name": "",
+        "edited": ""
+      }
+    ]
+  },
+  "pluginsConfig": {
+    "image-captions": {
+      "caption": "Imagen - _CAPTION_"
+    },
+    "localized-footer": {
+      "hline": true,
+      "filename": "./FOOTER.md"
+    },
+    "edit-link": {
+      "base": "https://github.com/catedu/m5-cofo-el-centro-educativo-y-la-formacion-del-pr/edit/master",
+      "label": "Edita esta página"
+    },
+    "githubcontributors": {
+      "githubOwner": "catedu",
+      "githubRepository": "m5-cofo-el-centro-educativo-y-la-formacion-del-pr"
+    },
+    "ga": {
+      "token": "UA-135691041-2"
+    }
+  }
+}
