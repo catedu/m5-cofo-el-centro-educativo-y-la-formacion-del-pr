@@ -8,9 +8,11 @@ Curso 16-17: [http://www.educaragon.org/FILES/CONVOCATORIA%20PFC%202016-17.pdf](
 
 Curso 17-18:[http://www.educaragon.org/FILES/Planes%20de%20formaci%C3%B3n%20de%20centros.pdf](https://www.google.com/url?q=http://www.educaragon.org/FILES/Planes%2520de%2520formaci%25C3%25B3n%2520de%2520centros.pdf&sa=D&ust=1516098480767000&usg=AFQjCNHY1ipVePXjgu61mg8jFks5BvWHkg) 
 
-Curso actual, 18-19: http://www.educaragon.org/FILES/ConvocatoriaPlanesFormaci%C3%B3nCentros.pdf
+Curso 18-19: http://www.educaragon.org/FILES/ConvocatoriaPlanesFormaci%C3%B3nCentros.pdf
 
+Curso 19-20: https://formacionprofesorado.aragon.es/convocatoria-de-plan-de-formacion-de-centro-para-el-curso-2019-2020/
 
+CURSO 20-21, https://educa.aragon.es/documents/20126/0/PFC+2020_2021_firmado+%281%29.pdf/ddd3802c-02ff-fba9-4afc-823297d7adc5?t=1599656157940
 Como consta en varias normativas, las actividades de formación propuestas y desarrolladas dentro del plan, tendrán lugar, preferentemente, **fuera del horario de atención directa a los alumnos** excepto aquellas que tengan carácter institucional, convocadas por las administraciones educativas u otras que excepcionalmente puedan ser autorizadas por causas debidamente justificadas.
 
 El Plan de Formación de Centro no es un mero documento recopilatorio e informativo, sino que **constituye una herramienta en sí misma para planificar, diseñar y evaluar** las actividades de formación que un Claustro decida poner en marcha, y que irán orientadas a :
@@ -21,7 +23,7 @@ El Plan de Formación de Centro no es un mero documento recopilatorio e informat
 *   Invitar a la reflexión.
 *   Convertir el centro en el elemento básico de propuestas de mejora, formación e innovación de implementación inmediata.
 
-![](images/image5.png)
+![](images/imagedoceo.png)
 
 ### Primera fase: reflexión y detección de necesidades. Entre junio-septiembre.
 
@@ -33,12 +35,6 @@ Es importante recordar que debemos basarnos en dos aspectos esenciales asociados
 Además debemos contemplar la adecuación de nuestras propuestas al Plan Marco de Formación del Profesorado de Aragón.
 
 Entre junio y septiembre, comienza en los centros la fase de reflexión, de decisión sobre objetivos de mejora y de detección de las necesidades formativas del Claustro con respecto a ellos.
-
----
-
-**Instrumentos para esta primera fase:**
-
-Contamos con unos instrumentos proporcionados por el Departamento de Educación y los Centros del Profesorado, como el [Formulario de apoyo de detección de necesidades](http://cifelanuza.org/descarga.php?archivo=documentos/COFO_documentacion/Deteccion%20necesidades/anexo_ii_autoevaluacion_competencias_def_directores.xls&tipo=documentos)
 
 ---
 
@@ -55,13 +51,13 @@ Contamos con unos instrumentos proporcionados por el Departamento de Educación 
 
 El Plan de Formación del Centro es elaborado por el **Coordinador de Formación del centro y otros docentes del Claustro coordinadores de actividades** en colaboración con el **Equipo Directivo y el Departamento de Formación e Innovación Educativa en los Institutos de Educación Secundaria, o el Departamento de Innovación y Transferencia del Conocimiento en los CPIFP**. Una vez informado el Claustro, se incluye en la Programación General Anual.
 
-La elaboración del plan es siempre fruto de la coordinación telemática a través de la plataforma [DOCEO](https://www.google.com/url?q=https://cifes.aragon.es/modulos/index.php&sa=D&ust=1516098480773000&usg=AFQjCNEs2oo_OcP-ngxlDJaEKmpgwW82yA) entre centros educativos y los Centros de Innovación y Formación Educativa, que colaboran en el diseño, desarrollo y seguimiento.
+La elaboración del plan es siempre fruto de la coordinación telemática a través de la plataforma [DOCEO](https://doceo.catedu.es/epgfp/portada) entre centros educativos y los Centros del Profesorado, que colaboran en el diseño, desarrollo y seguimiento.
 
-![](images/image4.png)
+![](images/imagedoceo.png)
 
 Dentro de los centros, los Coordinadores de Formación y los Coordinadores de cada una de las actividades que se van a proponer (el COFO no tiene porqué coordinar todas ellas) formalizan su propuesta en DOCEO, cumplimentando toda la información general del Plan y de cada una de las actividades que lo van a conformar.
 
-El asesor de formación del Centro del Profesorado de referencia del centro educativo orienta al Coordinador de Formación y al Equipo Directivo en cuanto a la viabilidad del proyecto y a la adecuación de las acciones formativas planteadas para los objetivos que se pretenden alcanzar y contribuye a dotar de coherencia al plan elaborado.
+La asesoría de formación del Centro del Profesorado de referencia del centro educativo orienta al Coordinador o Coordinadora de Formación y al Equipo Directivo en cuanto a la viabilidad del proyecto y a la adecuación de las acciones formativas planteadas para los objetivos que se pretenden alcanzar y contribuye a dotar de coherencia al plan elaborado.
 
 Posteriormente el equipo pedagógico del Centro del Profesorado determina qué actividades serán gestionadas y certificadas desde el mismo en función de su adecuación a las características establecidas  y su utilidad para la consecución de los objetivos planteados así como de los recursos disponibles.
 
@@ -76,8 +72,8 @@ Además de este trámite telemático, otros imprescindibles son:
 
 **Instrumentos para la segunda fase:**
 
-[Manual de DOCEO para COFOs](http://cifes.aragon.es/manual_cofos/)
-[cifes.aragon.es](https://cifes.aragon.es/)
+[Manual de DOCEO para COFOs](https://drive.google.com/file/d/1AO8rj6OmjhxZT54NYTYgoNAMUqLXoYRD/view)
+[DOCEO](https://doceo.catedu.es/epgfp/portada)
 
 ---
 
@@ -89,11 +85,7 @@ Consejos prácticos:
 - Recordar que dentro del Claustro hay diferentes perfiles de docentes con necesidades distintas.
 - Definir objetivos claros y alcanzables.
 - La evaluación de la formación es fundamental para la mejora futura.
-![](/assets/PFC1819.png)
-![](/assets/GT18-19.png)
-![](/assets/Copia de Copia de 6.png)
 
-_Infografías de Diego Arroyo, @diegoarroyom_
 ### Tercera fase: desarrollo, seguimiento y evaluación intermedia. De octubre a mayo.
 
 Los servicios técnicos de apoyo (Inspección de Educación y Equipos de Orientación Educativa y Psicopedagógica) supervisarán los planes y podrán orientar a los equipos directivos en la identificación de ámbitos de mejora y establecimiento de objetivos.
