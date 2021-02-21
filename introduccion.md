@@ -1,11 +1,5 @@
 # INTRODUCCIÓN {#introducci-n}
 
-![](images/image1.png)
-
-```
-                   Imagen extraída de infografía del Centro del Profesorado Sabiñánigo
-```
-
 **La calidad de la enseñanza en las aulas depende en gran medida de la formación de sus docentes**. Un claustro bien formado puede afrontar con muchas más garantías de éxito los retos que su tarea diaria plantea.
 
 Explicamos brevemente la **transformación en la formación del profesorado en Aragón en los últimos años**, como ejemplo cercano de cambio de paradigma en la formación del profesorado, con el Claustro como eje de su propio aprendizaje.
