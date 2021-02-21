@@ -1,6 +1,6 @@
 # UNIDAD 2- FUNCIONES DEL COORDINADOR DE FORMACIÓN {#unidad-2-funciones-del-coordinador-de-formaci-n}
 
-Las funciones que el **Decreto de Formación vigente** asigna al Coordinador de Formación son las siguientes:
+Las funciones que el [Decreto de Formación vigente](http://www.boa.aragon.es/cgi-bin/EBOA/BRSCGI?CMD=VEROBJ&MLKOB=1040620063232&type=pdf) asigna al Coordinador de Formación son las siguientes:
 
 1. Recoger las necesidades de formación detectadas en el centro y trasladarlas a la Red
 de Formación, en concreto al asesor o asesora de formación de su Centro de Profesorado de referencia.
@@ -71,11 +71,6 @@ t) Ser modelo práctico de todo lo que como COFO y Coordinador de Innovación se
  
 Una vez listadas todas estas funciones, cabe reflexionar sobre lo siguiente: ¿Deberían los COFOs, que además son ahora coordinadores de los procesos de innovación y mejora, y por lo tanto líderes metodológicos indiscutibles de los centros, ser parte integrante de los Equipos Directivos, o por lo menos recibir otros incentivos que correspondan a todas las responsabilidades, esfuerzo y trabajo que están asumiendo?
 
-**Aquí os ofrecemos unos enlaces a documentos con Normativa sobre COFOs en Aragón que han sido recopilados por el CIFE María de Ávila.**
-
-[https://drive.google.com/drive/folders/0BzMK-sFSLGgcbnVpMm0wV19oYlE](https://www.google.com/url?q=https://drive.google.com/drive/folders/0BzMK-sFSLGgcbnVpMm0wV19oYlE&sa=D&ust=1516098480763000&usg=AFQjCNHcOs4F4-b9vdE2Azrjo8OiaTttvg) 
-
-[https://drive.google.com/drive/folders/0BzMK-sFSLGgcUzBvTzVJVWVmUUk](https://www.google.com/url?q=https://drive.google.com/drive/folders/0BzMK-sFSLGgcUzBvTzVJVWVmUUk&sa=D&ust=1516098480764000&usg=AFQjCNFg_FefDuC7QnWwhNWg8mecyn9mvg) 
 
 Actualmente, en Aragón los líderes de la innovación ya no son los Equipos Directivos, como vemos en esta imagen de Pere Marqués del 2015, sino los COFOs, pues además de la Formación se les ha transferido esa responsabilidad.
 
