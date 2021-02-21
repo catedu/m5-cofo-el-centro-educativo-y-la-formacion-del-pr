@@ -14,6 +14,6 @@ Los Planes de Formación de los Centros son además parte integrante del **Plan 
 
 Finalmente, hay que mencionar también el **carácter abierto, colaborativo y público** de los Planes de Formación de los centros. En este sentido, diversas normativas e instrucciones actuales establecen que:
 
-*   Deben ser fruto de la colaboración entre el COFO y el Equipo Directivo, y deben coordinarse con los Centros del Profesoradi correspondientes a través de sus Asesores.
+*   Deben ser fruto de la colaboración entre el COFO y el Equipo Directivo, y deben coordinarse con los Centros del Profesorado correspondientes a través de sus Asesorías.
 *   Deben darse a conocer a la comunidad educativa.
 *   Pueden estar abiertos a la participación de otros miembros de la Comunidad Educativa y externos, aunque no podrán recibir certificado reconocido por el Dto de Educación, Cultura y Deporte.
