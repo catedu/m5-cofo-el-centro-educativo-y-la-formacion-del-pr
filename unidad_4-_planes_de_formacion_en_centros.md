@@ -23,7 +23,7 @@ El Plan de Formación de Centro no es un mero documento recopilatorio e informat
 *   Invitar a la reflexión.
 *   Convertir el centro en el elemento básico de propuestas de mejora, formación e innovación de implementación inmediata.
 
-![](images/imagedoceo.png)
+![](images/image5.png)
 
 ### Primera fase: reflexión y detección de necesidades. Entre junio-septiembre.
 
